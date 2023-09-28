@@ -8,6 +8,6 @@ Nuestra página web de alquiler de coches tiene como objetivo proporcionar a nue
 
 Estos son los colores principales que hemos elgido para nuestra pagina: #FF0D1C, #F700FF, #730DFF
 ![colores utilizados](https://github.com/asierls/ProyectoAimarAsier/blob/main/image.png)
-Estas son las fuentes que hemos elegido:
+Estas son las fuentes que hemos elegido: Inclusive Sans, Martian Mono
 ![Letras utilizadas](https://github.com/asierls/ProyectoAimarAsier/blob/main/Captura%20de%20pantalla%202023-09-28%20135702.png)
 
