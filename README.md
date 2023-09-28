@@ -6,3 +6,4 @@
 
 Nuestra página web de alquiler de coches tiene como objetivo proporcionar a nuestros clientes una plataforma fácil de usar para encontrar y reservar coches de alquiler de manera conveniente y eficiente. Hemos desarrollado esta página web Ppara brindar la mejor experiencia posible a nuestros usuarios gracias a nuestros conocimientos de boostrap y jquery.
 
+![colores utilizados](https://github.com/asierls/ProyectoAimarAsier/blob/main/image.png)
