@@ -11,5 +11,7 @@ Estos son los colores principales que hemos elgido para nuestra pagina: #C1F2FA,
 Estas son las fuentes que hemos elegido: Inclusive Sans, Martian Mono
 ![Letras utilizadas](https://github.com/asierls/ProyectoAimarAsier/blob/main/Captura%20de%20pantalla%202023-09-28%20135702.png)
 Este es el prototipo de nuestra pagina:
+![colores utilizados](https://github.com/asierls/ProyectoAimarAsier/blob/main/INDEX.png)
+![colores utilizados](https://github.com/asierls/ProyectoAimarAsier/blob/main/EVENTOS.png)
 
 
