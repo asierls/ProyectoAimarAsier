@@ -12,6 +12,6 @@ Estas son las fuentes que hemos elegido: Inclusive Sans, Martian Mono
 ![Letras utilizadas](https://github.com/asierls/ProyectoAimarAsier/blob/main/assets/letras.png)
 Este es el prototipo de nuestra pagina:
 ![colores utilizados](https://github.com/asierls/ProyectoAimarAsier/blob/main/assets/INDEX.png)
-![colores utilizados](https://github.com/asierls/ProyectoAimarAsier/blob/main/assets/EVENTOS.png)
+![colores utilizados](https://github.com/asierls/ProyectoAimarAsier/blob/main/assets/eventos2.png)
 
 
