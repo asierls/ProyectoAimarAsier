@@ -7,7 +7,7 @@
 Nuestra página web de alquiler de coches tiene como objetivo proporcionar a nuestros clientes una plataforma fácil de usar para encontrar y reservar coches de alquiler de manera conveniente y eficiente. Hemos desarrollado esta página web Ppara brindar la mejor experiencia posible a nuestros usuarios gracias a nuestros conocimientos de boostrap y jquery.
 
 Estos son los colores principales que hemos elgido para nuestra pagina: #C1F2FA, #ABDED8, #C9F4E3
-![colores utilizados](https://github.com/asierls/ProyectoAimarAsier/tree/main/Trabajo1conAimar2/assets/img/COLORES.png)
+![colores utilizados](https://github.com/asierls/ProyectoAimarAsier/blob/main/Trabajo1conAimar2/assets/img/COLORES.png)
 Estas son las fuentes que hemos elegido: Inclusive Sans, Martian Mono
 ![Letras utilizadas](https://github.com/asierls/ProyectoAimarAsier/tree/main/Trabajo1conAimar2/assets/img/letras.png)
 Este es el prototipo de nuestra pagina:
