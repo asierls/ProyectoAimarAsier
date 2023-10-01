@@ -11,9 +11,9 @@ Estos son los colores principales que hemos elgido para nuestra pagina: #C1F2FA,
 Estas son las fuentes que hemos elegido: Inclusive Sans, Martian Mono
 ![Letras utilizadas](https://github.com/asierls/ProyectoAimarAsier/blob/main/Trabajo1conAimar2/assets/img/letras.png)
 Este es el prototipo de nuestra pagina:
-![index](https://github.com/asierls/ProyectoAimarAsier/tree/main/Trabajo1conAimar2/assets/img/INDEX.png)
-![eventos](https://github.com/asierls/ProyectoAimarAsier/tree/main/Trabajo1conAimar2/assets/img/eventos3.png)
-![contacto](https://github.com/asierls/ProyectoAimarAsier/tree/main/Trabajo1conAimar2/assets/img/contacto.png)
-![registro](https://github.com/asierls/ProyectoAimarAsier/tree/main/Trabajo1conAimar2/assets/img/registro.png)
+![index](https://github.com/asierls/ProyectoAimarAsier/blob/main/Trabajo1conAimar2/assets/img/INDEX.png)
+![eventos](https://github.com/asierls/ProyectoAimarAsier/blob/main/Trabajo1conAimar2/assets/img/eventos3.png)
+![contacto](https://github.com/asierls/ProyectoAimarAsier/blob/main/Trabajo1conAimar2/assets/img/contacto.png)
+![registro](https://github.com/asierls/ProyectoAimarAsier/blob/main/Trabajo1conAimar2/assets/img/REGISTRO.png)
 
 
