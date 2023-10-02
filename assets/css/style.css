@@ -1,0 +1,19 @@
+.fondo{
+    background: url(../img/FondoJumbotron.png) no-repeat !important;
+    height: 37rem !important;
+}
+.container{
+    background-color: #C9F4E3 !important;
+   
+    font-family: 'Inclusive Sans', sans-serif;
+
+}
+.navbar{
+    background-color: #C1F2FA !important;
+    font-family: 'Martian Mono', monospace;
+    
+}
+.footer{
+    background-color: #ABDED8 !important;
+    font-family: 'Martian Mono', monospace;
+}
