@@ -1,0 +1,242 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Alquiler de coches</title>
+
+  <!-- Agrega la referencia al archivo CSS de Bootstrap 5 -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-T3c6CoIi6uLrA9TneNEoa7RxnatzjcDSCmG1MXxSR1GAsXEV/Dwwykc2MPK8M2HN" crossorigin="anonymous">
+  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Roboto:wght@100&display=swap"
+    rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Inclusive+Sans&family=Martian+Mono&family=Roboto:wght@100&display=swap"
+    rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+      <div class="container-fluid">
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="#index">Variety Auto Rental</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#eventos">Eventos</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#contacto">Contacto</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="#registro">Registro</a>
+            </li>
+          </ul>
+        </div>
+      </div>
+    </nav>
+  </header>
+
+  <div id="index" class="pagina">
+    <div class="container">
+      <div class="row">
+        <div class="col">
+          <div class="jumbotron">
+            <h1 class="display-4">Variety Auto Rental</h1>
+            <p class="lead">Somos Variety Auto Rental, empresa líder en alquiler de vehículos tanto motos, como coches
+              e incluso vehículos de movilidad personal como puede ser un patinete eléctrico, una bicicleta...</p>
+            <hr class="my-4">
+            <p>"Tu confianza, nuestro compromiso, tu coche de alquiler perfecto."</p>
+            <a class="btn btn-primary btn-lg"
+              href="https://www.youtube.com/watch?v=90zNg4rLE0Q&ab_channel=OlalonComunicaci%C3%B3n%7CAportaoAparta"
+              role="button">Presentación</a>
+            <div class="fondo mx-auto"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="eventos" class="pagina">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <div class="d-flex justify-content-center">
+            <p>Información sobre los diferentes servicios que ofrecemos</p>
+          </div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col">
+          <div class="card" style="width: 18rem;">
+            <img src="https://www.segurocochedealquiler.com/blog/wp-content/uploads/2019/12/alquiler_de_coche.jpg"
+              class="card-img-top" alt="COCHES">
+            <div class="card-body">
+              <h5 class="card-title">Alquiler de coches</h5>
+              <p class="card-text">Actualmente en nuestro catalogo puedes encontrar los siguientes 3 coches</p>
+              <a href="#" class="btn btn-primary" id="verCoches">Ver coches</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card" style="width: 18rem;">
+            <img src="./assets/img/MotosAlquiler.jpg" class="card-img-top" alt="MOTOS">
+            <div class="card-body">
+              <h5 class="card-title">Alquiler de motos</h5>
+              <p class="card-text">Actualmente en nuestro catalogo puedes encontrar las siguientes 3 motos</p>
+              <a href="#" class="btn btn-primary" id="verMotos">Ver motos</a>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card" style="width: 18rem;">
+            <img src="./assets/img/VehiculosPersonal.jpg" class="card-img-top" alt="CHOFER">
+            <div class="card-body">
+              <h5 class="card-title">Movilidad personal</h5>
+              <p class="card-text">Actualmente en nuestro catalogo puedes encontrar los siguientes 3 vehiculos de
+                movilidad personal</p>
+              <a href="#" class="btn btn-primary" id="verPersonal">Ver vehiculos de movilidad personal</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="row vehiculos-section" id="coches-section">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <h2>Seat Leon</h2>
+          <p><img src="./assets/img/Coche1.png" alt="" class="img-fluid"></p>
+          <h3>60€/dia</h3>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <h2>Skoda Octavia</h2>
+          <P><img src="./assets/img/Coche2.png" alt="" class="img-fluid"></P>
+          <h3>50€/dia</h3>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <h2>Citroen C3</h2>
+          <p><img src="./assets/img/Coche3.png" alt="" class="img-fluid"></p>
+          <h3>40€/dia</h3>
+        </div>
+      </div>
+      <div class="row vehiculos-section" id="motos-section">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <h2>BMW R 1200 RT</h2>
+          <p><img src="./assets/img/Moto1.png" alt="" class="img-fluid"></p>
+          <h3>30€/dia</h3>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <h2>Yamaha XMAX TECH 125</h2>
+          <P><img src="./assets/img/Moto2.png" alt="" class="img-fluid"></P>
+          <h3>25€/dia</h3>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <h2>Peugeot Pulsion 125</h2>
+          <p><img src="./assets/img/Moto3.png" alt="" class="img-fluid"></p>
+          <h3>20€/dia</h3>
+        </div>
+      </div>
+      <div class="row vehiculos-section" id="personal-section">
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <h2>Bici eléctrica</h2>
+          <p><img src="./assets/img/Personal2.png" alt="" class="img-fluid"></p>
+          <h3>15€/dia</h3>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <h2>Patinete eléctrico</h2>
+          <P><img src="./assets/img/Personal1.png" alt="" class="img-fluid"></P>
+          <h3>12€/dia</h3>
+        </div>
+        <div class="col-lg-4 col-md-6 col-sm-12">
+          <h2>Monopatín eléctrico</h2>
+          <p><img src="./assets/img/Personal3.png" alt="" class="img-fluid"></p>
+          <h3>10€/dia</h3>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="contacto" class="pagina">
+    <div class="container">
+      <div class="row">
+        <h1 class="d-flex justify-content-center">CONTACTA CON NOSOTROS ANTE CUALQUIER DUDA O PROBLEMA!!</h1>
+        <H3 class="d-flex justify-content-center">TE CONTESTAREMOS LO ANTES POSIBLE</H3>
+        <div class="form-group">
+          <label for="exampleFormControlInput1">Correo electrónico</label>
+          <input type="email" class="form-control" id="Correo" placeholder="name@example.com">
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlSelect1">Motivo</label>
+          <select class="form-control" id="exampleFormControlSelect1">
+            <option>Duda</option>
+            <option>Informar sobre algún problema</option>
+            <option>Otro</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlSelect2">Tipo de cliente</label>
+          <select multiple class="form-control" id="exampleFormControlSelect2">
+            <option>Ya soy cliente</option>
+            <option>No soy cliente</option>
+            <option>Tengo duda de hacerme cliente o no</option>
+          </select>
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlTextarea1">Descripción de la duda/problema</label>
+          <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlFile1">Adjuntar archivo adicional</label>
+          <input type="file" class="form-control-file" id="exampleFormControlFile1">
+        </div>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <div id="registro" class="pagina">
+    <div class="container">
+      <div class="row">
+        <h1 class="d-flex justify-content-center">Registro</h1>
+        <form>
+          <div class="mb-3">
+            <label for="examplename" class="form-label">Nombre</label>
+            <input type="name" class="form-control" id="name" aria-describedby="nameHelp">
+          </div>
+          <div class="mb-3">
+            <label for="exampleapellidos" class="form-label">Apellidos</label>
+            <input type="apellidos" class="form-control" id="apellidos" aria-describedby="apellidosHelp">
+          </div>
+          <div class="mb-3">
+            <label for="exampleInputEmail1" class="form-label">Correo electrónico</label>
+            <input type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+            <div id="emailHelp" class="form-text">Nunca compartiremos su correo electrónico con nadie más.</div>
+          </div>
+          <div class="mb-3">
+            <label for="exampleInputPassword1" class="form-label">Contraseña</label>
+            <input type="password" class="form-control" id="exampleInputPassword1">
+          </div>
+          <div class="mb-3 form-check">
+            <input type="checkbox" class="form-check-input" id="exampleCheck1">
+            <label class="form-check-label" for="exampleCheck1">Aceptar términos y condiciones*</label>
+          </div>
+          <button type="submit" class="btn btn-primary">REGISTRARSE</button>
+        </form>
+      </div>
+    </div>
+  </div>
+
+  <footer class="footer bg-light text-center text-lg-start fixed-bottom">
+    <div class="text-center">
+      <p>Asier Lizarraga y Aimar del Rio 2ºASIR</p>
+    </div>
+  </footer>
+  <script src="https://cdn.jsdelivr.net/npm/jquery@3.7.1/dist/jquery.min.js"></script>
+  <script src="./assets/JQuery/Jquery.js"></script>
+</body>
+
+</html>
